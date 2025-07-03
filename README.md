@@ -15,7 +15,7 @@ You can run this project entirely in **Google Colab** without any local setup.
 ## 🚀 Getting Started
 
 ### Open in Colab
-[![Open In Colab](https://colab.research.google.com/drive/1JQFjSgjGhNyBN-7_eHudb8Dx4s27yCTS?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/drive/1jZlFVRzcPj_WGvSHg0cNzwhTS0wu4BUm?usp=sharing)
 
 Requirements
 
