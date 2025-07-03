@@ -27,10 +27,10 @@ Requirements
 - (If using Colab, dependencies are pre-installed.)
 
 
-📈 Model Overview
+## 📈 Model Overview
 The credit scoring model uses machine learning algorithms (e.g., logistic regression, random forest) to predict the probability that a customer will default.
 
-Typical workflow:
+### Typical workflow:
 - Data preprocessing
 - Splitting into train/test sets
 - Model training
